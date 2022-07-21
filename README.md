@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaynautovic
-- 👀 I’m interested in almost everything!
-- 🌱 I’m currently learning Java, Databases, Web Design, ...
-- 💞️ I’m looking to collaborate on nothing at the moment. Maybe later.
+- 👀 I’m interested in creating software solutions for everyone!
+- 🌱 I’m currently deepening my skills in Javascript!
+- 💞️ I’m looking to collaborate on nothing at the moment. Maybe at a later point in time!
 - 📫 How to reach me - juergenreiter95@outlook.de
 
 <!---
